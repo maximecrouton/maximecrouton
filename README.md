@@ -1,4 +1,14 @@
-## Hi there 👋
+
+<h1 align="center">Hi there 👋,</h1> 
+<h3 align="left">✨ Welcome to my Github page ✨</h3>
+
+- 🚀 I will eventually post some projects I am working on: data challenge, quantitative finance,..
+
+- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="15" width="15" /> Formely worked as a FICC structurer: **https://www.linkedin.com/in/maxime-crouton-90365083/**
+
+- 📚 I studied Applied Mathematics at CentraleSupelec and Finance at Toulouse Business School.
+
+- 📫 Feel free to reach me out at **maxime.crouton@outlook.com**
 
 <!--
 **maximecrouton/maximecrouton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
